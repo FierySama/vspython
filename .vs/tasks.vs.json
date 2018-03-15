@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-EtchASketch",
+      "appliesTo": "Module9/EtchASketch.py",
+      "type": "launch"
+    }
+  ]
+}
